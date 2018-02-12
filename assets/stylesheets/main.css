@@ -1,0 +1,22 @@
+html {
+  font-family: sans-serif;
+}
+
+#Carousel {
+  width: 75%;
+}
+
+.Carousel-image {
+  width: 100%;
+}
+
+.Carousel-captions {
+  float: left;
+  display: inline-block;
+  width: 80%;
+}
+
+.Carousel-buttons {
+  float: right;
+  display: inline-block;
+}
